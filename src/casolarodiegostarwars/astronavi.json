@@ -1,0 +1,56 @@
+
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "name": "CR90 corvette",
+      "model": "CR90 corvette",
+      "manufacturer": "Corellian Engineering Corporation",
+      "cost_in_credits": "3500000",
+      "length": "150",
+      "max_atmosphering_speed": "950",
+      "crew": "30-165",
+      "passengers": "600",
+      "starship_class": "corvette",
+      "url": "https://swapi.dev/api/starships/2/"
+    },
+    {
+      "name": "Star Destroyer",
+      "model": "Imperial I-class Star Destroyer",
+      "manufacturer": "Kuat Drive Yards",
+      "cost_in_credits": "150000000",
+      "length": "1600",
+      "max_atmosphering_speed": "975",
+      "crew": "47060",
+      "passengers": "0",
+      "starship_class": "Star Destroyer",
+      "url": "https://swapi.dev/api/starships/3/"
+    },
+    {
+      "name": "Sentinel-class landing craft",
+      "model": "Sentinel-class landing craft",
+      "manufacturer": "Sienar Fleet Systems",
+      "cost_in_credits": "240000",
+      "length": "38",
+      "max_atmosphering_speed": "1000",
+      "crew": "5",
+      "passengers": "75",
+      "starship_class": "landing craft",
+      "url": "https://swapi.dev/api/starships/5/"
+    },
+    {
+      "name": "Death Star",
+      "model": "DS-1 Orbital Battle Station",
+      "manufacturer": "Imperial Department of Military Research",
+      "cost_in_credits": "1000000000000",
+      "length": "120000",
+      "max_atmosphering_speed": "n/a",
+      "crew": "342953",
+      "passengers": "843342",
+      "starship_class": "Deep Space Mobile Battlestation",
+      "url": "https://swapi.dev/api/starships/9/"
+    }
+  ]
+}
