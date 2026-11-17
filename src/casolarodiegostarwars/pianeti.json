@@ -31,6 +31,13 @@
       "terrain": "jungle, rainforests",
       "population": "1000",
       "url": "https://swapi.dev/api/planets/3/"
+    },
+    {
+      "name": "Umbara",
+      "climate": "unknown",
+      "terrain": "unknown",
+      "population": "unknown",
+      "url": "https://swapi.dev/api/planets/60/"
     }
   ]
 }
